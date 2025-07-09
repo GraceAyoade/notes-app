@@ -15,3 +15,4 @@ app.listen(PORT, () => {
     colors.cyan.bold.underline(`Server is running successfully on port ${PORT}`)
   );
 });
+
